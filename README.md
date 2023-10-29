@@ -14,7 +14,7 @@
 
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
  
- ## Libraries
+ ## Frameworks, Platforms and Libraries
 
 <img align="left" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
